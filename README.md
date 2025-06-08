@@ -91,7 +91,7 @@ Menjalankan fungsi dengan interval awal `[-5, 8]` dan akar sebenarnya `4`.
 
 ![alt text](image.png)
 
-## 🛠️ Catatan
+## Catatan
 
 - Pastikan interval awal mengapit akar (tanda `f(a)` dan `f(b)` berbeda)
 - Akurasi tergantung parameter `max_error` dan `max_iter`
